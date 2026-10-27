@@ -1,0 +1,62 @@
+# Dependencies
+node_modules/
+
+# WXT and extension build artifacts
+.output/
+.wxt/
+dist/
+build/
+web-ext-artifacts/
+*.zip
+*.crx
+*.xpi
+*.tgz
+
+# Tests and coverage
+coverage/
+.nyc_output/
+playwright-report/
+test-results/
+blob-report/
+playwright/.auth/
+
+# Evaluation inputs and generated outputs
+evaluation/dataset.jsonl
+evaluation/cache/
+evaluation/predictions/
+evaluation/results/*
+!evaluation/results/README.md
+
+# Tool caches
+.cache/
+.vite/
+.turbo/
+.eslintcache
+*.tsbuildinfo
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.local
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+tmp/
+temp/

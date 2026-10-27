@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Parallax prism">
+  <rect width="128" height="128" rx="24" fill="#F6F2EA"/>
+  <path d="M47 21 84 85H10Z" fill="none" stroke="#1B1A17" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M3 57h48" stroke="#EFEAE0" stroke-width="5"/>
+  <path d="m56 56 68-26" stroke="#4B4FA8" stroke-width="6" stroke-linecap="round"/>
+  <path d="m58 61 67 2" stroke="#8A8577" stroke-width="6" stroke-linecap="round"/>
+  <path d="m56 67 64 32" stroke="#B7791F" stroke-width="6" stroke-linecap="round"/>
+</svg>
